@@ -1,1 +1,2 @@
 # CreditCard_fraud_detection
+"Credit Card Fraud Detection" project is a cutting-edge initiative aimed at developing and implementing advanced algorithms and technologies to safeguard financial transactions and protect individuals and organizations from credit card fraud. Credit card fraud poses a significant threat to both consumers and financial institutions, resulting in substantial financial losses and reputational damage. This project seeks to mitigate these risks by creating a robust and efficient fraud detection system.
